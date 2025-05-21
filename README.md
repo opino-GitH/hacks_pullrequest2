@@ -8,4 +8,4 @@
 | hg_2_charlie | https://github.com/opino-GitH/hg_2_charlie |
 | hg_2_delta | https://github.com/opino-GitH/hg_2_delta |
 | hg_2_alfa | https://github.com/opino-GitH/hg_2_alfa |
-| hg_2_alfa | https://github.com/opino-GitH/hg-2-bravo |
+| hg_2_bravo | https://github.com/opino-GitH/hg-2-bravo |
